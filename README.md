@@ -1,4 +1,4 @@
-# Political Social Media Post Classification with Natural Language Processing (NLP)  
+# Political Social Media Post AI Classifier with Natural Language Processing (NLP)  
 
 ## Project Overview  
 This is a **group NLP project** (4 members) aiming to analyze and classify **political social media posts**.  
