@@ -5,6 +5,11 @@ This is a **group NLP project** (4 members) aiming to analyze and classify **pol
 We applied **Natural Language Processing (NLP)** techniques to clean text data, trained and fine-tuned multiple deep learning models (GPT-2, BERT, LSTM), and finally built a **full-stack web application** to demonstrate model performance.
 
 ---
+
+> Sample Poli App Home Page
+![Demo](assets/demo.gif)
+---
+
 ## Usage
 Users can input any political social media post, not limited to the dataset used for training.
 - The models were trained and fine-tuned on the 2015 Crowdflower Political Social Media Posts dataset.
@@ -68,6 +73,4 @@ To demonstrate model performance, we developed a **full-stack web application**:
 
 ---
 
-> Sample Poli App Home Page
-![Demo](assets/demo.gif)
 
