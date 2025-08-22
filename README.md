@@ -69,4 +69,5 @@ To demonstrate model performance, we developed a **full-stack web application**:
 ---
 
 > Sample Poli App Home Page
-![Architecture](assets/poli.png)
+![Demo](assets/demo.gif)
+

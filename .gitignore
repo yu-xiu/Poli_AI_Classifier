@@ -5,3 +5,4 @@ poli-venv/
 models/
 .env
 .DS_Store
+assets/poli-demo.mov
