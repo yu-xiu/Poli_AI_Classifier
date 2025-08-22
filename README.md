@@ -64,7 +64,7 @@ To demonstrate model performance, we developed a **full-stack web application**:
 - **Model Training**: Trained and fine-tuned the LSTM model
 - **Frontend Development**: Implemented React-based user interface and API integration (logo design, colors, user input section and animation)
 - **Partial Backend**: Developed Flask API endpoints and model loading logic (prepare and load models from google drive since the models are too large and google drive has no cost comparing to other platforms)
-- **Deployment**: Deployed application with Render (backend) and Vercel (frontend)
+- **Deployment**: Deployed application with Heroku (backend) and Vercel (frontend)
 
 ---
 
