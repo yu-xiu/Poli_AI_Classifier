@@ -63,7 +63,7 @@ To demonstrate model performance, we developed a **full-stack web application**:
 - **Model storage**: Best result BERT models are saved and loaded for inference  
 - **Deployment**:  
   - Frontend hosted on **Vercel**  
-  - Backend hosted on **Render**  
+  - Backend hosted on **Heroku**  
 
 
 ---
